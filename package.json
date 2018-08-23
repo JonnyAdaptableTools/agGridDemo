@@ -1,0 +1,11 @@
+{
+  "name": "aggridstarterdemo",
+  "version": "1.0.0",
+  "description": "A one file demo showing how to integrate adaptableblotter and ag-grid",
+  "main": "index.js",
+  "author": "Jonny Wolfson",
+  "license": "ISC",
+  "dependencies": {
+    "adaptableblotter": "^2.3.0"
+  }
+}
