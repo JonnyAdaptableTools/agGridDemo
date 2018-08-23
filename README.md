@@ -6,9 +6,9 @@ All that is needed is to instantiate ag-Grid and pass the gridOptions into the A
 Note its your responsiblity to download ag-Grid - and if using the Enterprise version please ensure you have a licence!
 
 The entire code for the demo is here:
+In Header Tag:
 
-<head>
-    <!-- Some ag-Grid files - its responsibility of dev to get these: we dont provide-->
+ <!-- Some ag-Grid files - its responsibility of dev to get these: we dont provide-->
     <script src="https://unpkg.com/ag-grid-enterprise/dist/ag-grid-enterprise.min.noStyle.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/ag-grid/dist/styles/ag-grid.css">
     <link rel="stylesheet" href="https://unpkg.com/ag-grid/dist/styles/ag-theme-balham.css">
@@ -19,9 +19,8 @@ The entire code for the demo is here:
     <!-- adaptable blotter stylesheet - will provide this as downloadable pacakge very soon -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 
-</head>
+In Body Tag:
 
-<body>
     <!-- div for the adaptable blotter -->
     <div id="adaptableBlotter" style="margin:0px"></div>
 
@@ -63,4 +62,4 @@ The entire code for the demo is here:
         );
 
     </script>
-</body>
+
