@@ -7,9 +7,6 @@ Note its your responsiblity to download ag-Grid - and if using the Enterprise ve
 
 The entire code for the demo is here:
 
-<!DOCTYPE html>
-<html>
-
 <head>
     <!-- Some ag-Grid files - its responsibility of dev to get these: we dont provide-->
     <script src="https://unpkg.com/ag-grid-enterprise/dist/ag-grid-enterprise.min.noStyle.js"></script>
@@ -67,5 +64,3 @@ The entire code for the demo is here:
 
     </script>
 </body>
-
-</html>
