@@ -9,7 +9,6 @@ The entire code for the demo is here:
 
 In Header Tag:
 
-   <!-- Some ag-Grid files - its responsibility of dev to get these: we dont provide-->
     <script src="https://unpkg.com/ag-grid-enterprise/dist/ag-grid-enterprise.min.noStyle.js"></script>
     <link rel="stylesheet" href="https://unpkg.com/ag-grid/dist/styles/ag-grid.css">
     <link rel="stylesheet" href="https://unpkg.com/ag-grid/dist/styles/ag-theme-balham.css">
@@ -17,7 +16,7 @@ In Header Tag:
     <!-- the adaptable blotter file -->
     <script src="node_modules/adaptableblotter/dist/adaptableblotteraggrid-bundle.min.js"></script>
 
-    <!-- adaptable blotter stylesheet - will provide this as downloadable pacakge very soon -->
+    <!-- adaptable blotter stylesheet - will provide this as downloadable package very soon -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
 
 In Body Tag:
