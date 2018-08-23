@@ -7,5 +7,13 @@
   "license": "ISC",
   "dependencies": {
     "adaptableblotter": "^2.3.0"
-  }
+  },
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonnyadaptabletools/agGridDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonnyadaptabletools/agGridDemo/issues"
+  },
+  "homepage": "https://github.com/jonnyadaptabletools/agGridDemo#readme"
 }
